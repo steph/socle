@@ -1,0 +1,20 @@
+{
+  "name": "socle",
+  "version": "0.0.0",
+  "homepage": "https://github.com/steph/socle",
+  "authors": [
+    "svidal <stephane.vidal@svidal.fr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/public/assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
